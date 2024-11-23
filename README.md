@@ -4,6 +4,8 @@
 🌱 Deep diving into kubernetes, argoCD, terraform
 <br />
 💬 Ask me about leadership, team management/team building, devops, data pipelines and big data
+<br />
+😃 Interests outside of coding include D&D, Pathfinder, Amateur Radio, Painting miniatures
 
 ### Get In Touch
 <p align="left">
