@@ -2,6 +2,7 @@
 
 ### About Me
 🌱 Deep diving into kubernetes, argoCD, terraform
+<br />
 💬 Ask me about leadership, team management/team building, devops, data pipelines and big data
 
 ### Get In Touch
