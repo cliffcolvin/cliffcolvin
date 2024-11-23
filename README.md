@@ -15,8 +15,7 @@
 				height="40"
 				width="40"
 			/>
-	</a>
-	<a style="text-decoration: none" href="mailto:clifford.colvin@gmail.com" target="_blank">
+	</a><a style="text-decoration: none" href="mailto:clifford.colvin@gmail.com" target="_blank">
 		<img
 			src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
 			alt="clifford.colvin@gmail.com"
