@@ -30,7 +30,6 @@ Recently added as a maintainer to [Opencost](https://github.com/opencost)
 			src="https://static.qrz.com/static/qrz/qrz_com.svgz"
 			alt="k5cv-qrz"
 			height="40"
-			width="40"
 		/>
 	</a>
 </p>
