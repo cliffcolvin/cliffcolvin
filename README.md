@@ -45,8 +45,4 @@ Recently added as a maintainer to [Opencost](https://github.com/opencost)
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=cliffcolvin&show_icons=true&locale=en&layout=compact&theme=tokyonight"
 		alt="cliffcolvin"
 	/>
-	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=cliffcolvin&theme=tokyonight"
-		alt="cliffcolvin"
-	/>
 </p>
