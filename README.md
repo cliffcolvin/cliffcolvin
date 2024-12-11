@@ -33,16 +33,3 @@ Recently added as a maintainer to [Opencost](https://github.com/opencost)
 		/>
 	</a>
 </p>
-
-<p align="center">
-	<img
-       height="180em"
-		src="https://github-readme-stats.vercel.app/api?username=cliffcolvin&show_icons=true&locale=en&count_private=true&theme=tokyonight"
-		alt="cliffcolvin"
-	/>
-  <img
-       height="180em"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=cliffcolvin&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-		alt="cliffcolvin"
-	/>
-</p>
