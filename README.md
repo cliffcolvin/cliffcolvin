@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Cliff Colvin, Sr Eng Manager at Kubecost.
+## Hi there 👋 I'm Cliff Colvin, Director of Engineering at Kubecost, recently acquired by Apptio (an IBM Company).
 
 ### About Me
 🌱 Deep diving into kubernetes, argoCD, terraform
