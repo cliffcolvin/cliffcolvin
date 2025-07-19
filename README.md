@@ -63,8 +63,6 @@ Here are a few tools and projects I’ve built or contributed to recently:
 
 - [🧠 HelmScan](https://github.com/cliffcolvin/helmscan) — Docker image comparison tool to detect mismatches
 - [📉 Opencost](https://github.com/opencost/opencost) — Real-time Kubernetes cost monitoring
-- [✅ Jira Task Check](https://github.com/cliffcolvin/jira-taskcheck-action) — Enforces Jira task numbers in PRs
-- [💰 kubectl-cost](https://github.com/kubecost/kubectl-cost) — CLI for determining Kubernetes workload costs
 
 ---
 
