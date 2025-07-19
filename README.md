@@ -30,17 +30,6 @@
 
 ---
 
-### 📈 Metrics (Open Source, Languages, Habits)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/github-metrics.svg" alt="Metrics" style="max-width: 100%;">
-</p>
-
-To add your own custom metrics like contribution streaks, lines of code, languages, or dev habits:
-👉 [Check out lowlighter/metrics](https://github.com/lowlighter/metrics)
-
----
-
 ### 🔗 Connect With Me
 
 <p align="left">
